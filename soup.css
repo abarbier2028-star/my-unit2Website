@@ -1,0 +1,19 @@
+body {
+  background-image: url(bluebackground.png);"
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color:#7091bd;
+  font-family: monospace;
+}
+h3 {
+  color:#93b8d9;
+  font-family: monospace;
+}
+
+li { 
+  font-family: monospace;
+}

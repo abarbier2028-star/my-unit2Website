@@ -1,0 +1,36 @@
+body {
+    
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color:#869b64;
+  font: fantasy;
+}
+h3 {
+  color:#adb785;
+  font: fantasy;
+}
+.pasta {
+  width: 200px;
+  height:200px;
+}
+.chickennoodlesoup {
+  width:200px;
+  height:200px;
+}
+.pizza {
+  width:200px;
+  height:200px;
+}
+
+
+h2 {
+color:#99b77c;
+}
+
+h4 {
+  color:#adb785;
+}
